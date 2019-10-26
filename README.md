@@ -2,7 +2,7 @@
 
 https://github.com/apache/incubator-echarts
 
----js
+```js
 // test/node/scatter-gps.js
 
 var chart = echarts.init(canvas);
